@@ -14,3 +14,5 @@ INDIVIDUAL [aquí](https://www.canva.com/design/DAGGW16T180/3sdA7vmRYth_Gqd5JMFo
 
 ### Contenidos de la presentación individual
 
+PORTADA: 
+<img src="" alt="portada" width="600">
