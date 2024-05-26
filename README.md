@@ -1,4 +1,4 @@
-# Presentación Dual FP Accenture - Jose Molina
+# Presentación Dual FP Accenture - Gonzalo Lázaro Zambrano
 
 Bienvenido a la presentación del proyecto que hemos realizado en las prácticas de FP-DUAL en Accenture. Este repositorio contiene varios recursos multimedia que explican diferentes aspectos del proyecto. A continuación, encontrarás los videos y las imágenes que detallan el funcionamiento y la estructura del proyecto.
 
